@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Vikas Thakur
+Author - Vikas Thakur(PHP Developer)
